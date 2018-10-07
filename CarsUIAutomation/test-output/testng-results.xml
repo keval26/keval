@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34647" started-at="2018-09-30T20:42:28Z" finished-at="2018-09-30T20:43:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34647" started-at="2018-09-30T20:42:28Z" finished-at="2018-09-30T20:43:03Z">
+      <class name="Cars">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Cars@3712b94]" name="setup" is-config="true" duration-ms="8623" started-at="2018-09-30T20:42:28Z" finished-at="2018-09-30T20:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verfiyTitleOfCars()[pri:1, instance:Cars@3712b94]" name="verfiyTitleOfCars" duration-ms="21" started-at="2018-09-30T20:42:37Z" finished-at="2018-09-30T20:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyTitleOfCars -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Cars@3712b94]" name="tearDown" is-config="true" duration-ms="728" started-at="2018-09-30T20:42:37Z" finished-at="2018-09-30T20:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Cars@3712b94]" name="setup" is-config="true" duration-ms="6579" started-at="2018-09-30T20:42:38Z" finished-at="2018-09-30T20:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchCarsForAZipCode()[pri:2, instance:Cars@3712b94]" name="SearchCarsForAZipCode" duration-ms="5084" started-at="2018-09-30T20:42:44Z" finished-at="2018-09-30T20:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchCarsForAZipCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Cars@3712b94]" name="tearDown" is-config="true" duration-ms="736" started-at="2018-09-30T20:42:49Z" finished-at="2018-09-30T20:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Cars@3712b94]" name="setup" is-config="true" duration-ms="6970" started-at="2018-09-30T20:42:50Z" finished-at="2018-09-30T20:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleOfSearchPageByZipCode()[pri:3, instance:Cars@3712b94]" name="titleOfSearchPageByZipCode" duration-ms="5087" started-at="2018-09-30T20:42:57Z" finished-at="2018-09-30T20:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleOfSearchPageByZipCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Cars@3712b94]" name="tearDown" is-config="true" duration-ms="784" started-at="2018-09-30T20:43:02Z" finished-at="2018-09-30T20:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Cars -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
